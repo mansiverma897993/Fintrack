@@ -150,17 +150,6 @@ Example:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork this repository
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**.
