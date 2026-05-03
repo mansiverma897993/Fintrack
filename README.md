@@ -1,4 +1,4 @@
-# 💰 FinTrack – Financial Tracker System
+# 💰 FinTrack : Financial Tracker System
 
 FinTrack is a modern **financial tracking web application** built with **React.js** that helps users manage income, expenses, and financial insights in one place. It also provides **real-time market news updates** using a News API.
 
